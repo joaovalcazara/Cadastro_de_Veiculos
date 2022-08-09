@@ -1,0 +1,29 @@
+
+
+.texto-destaque{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: #000000;
+    letter-spacing: -2px;
+    text-align: center;
+    font-size: 3rem;
+    
+
+}
+
+.texto-menu:hover{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: #ffffff!important;
+    font-size: 1.2rem; 
+
+}
+.texto-link:hover{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: #000000!important;
+    font-size: 1.2rem; 
+
+}
+
+
